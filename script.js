@@ -40,7 +40,7 @@ console.log(populationOfTheBishkek - populationOfTheBalykchy);  // 1999000
 // console.log(lengthFence);
 
 // Площадь дома 200
- // Свободная площадь двора 100
+ // Свободная площадь двора 1300
  // Длина забора 130
 
  
